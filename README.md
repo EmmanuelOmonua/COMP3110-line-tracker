@@ -13,10 +13,12 @@ No implementation is required — only the design, dataset, evaluation, and GUI 
 ---
 
 ## 📂 Repository Structure
+```
 ├─ dataset/ # 25 file pairs + ground truth CSV
 ├─ design/ # Algorithm, evaluation, GUI design documents
 ├─ results/ # (optional) placeholder for evaluation tables
 └─ report/ # Final report and PDF
+```
 
 ---
 
