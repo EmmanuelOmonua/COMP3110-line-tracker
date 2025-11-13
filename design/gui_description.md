@@ -31,10 +31,6 @@ Design a GUI to **visualize line mappings** between old and new files in a clear
 - Darker squares = stronger mapping confidence.
 - Helps identify clusters of change.
 
-### d) Mapping Inspector
-- Table listing every old → new mapping.
-- Columns: Old Line, New Line(s), Type, Confidence.
-
 ---
 
 ## 3. Interaction Ideas
