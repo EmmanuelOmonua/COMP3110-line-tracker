@@ -44,6 +44,7 @@ The algorithm prioritizes **accuracy and interpretability**, providing both deve
 ## 🧾 3. Dataset Design
 The dataset contains **25 file pairs** (`pair_001_old.java` → `pair_025_new.java`) stored in:
 
+```
 dataset/
 ├─ pair_001_old.java
 ├─ pair_001_new.java
@@ -51,7 +52,7 @@ dataset/
 ├─ pair_025_old.java
 ├─ pair_025_new.java
 └─ ground_truth.csv
-
+```
 
 Each pair contains small, realistic Java modifications:
 - Variable renames  
