@@ -2,4 +2,7 @@ pair_id,old_line,new_line,mapping_type
 pair_001,3,3,unchanged
 pair_001,4,4,modified
 pair_001,5,5,modified
-
+pair_002,3,4,added_comment
+pair_003,4,3,deleted
+pair_004,3,4,added_line
+pair_005,3,3,modified
