@@ -1,3 +1,5 @@
-pair_id,old_filepath,new_filepath,old_line_number,new_line_numbers,mapping_type,old_line_text,new_line_text
-pair_001,dataset/old.txt,dataset/new.txt,1,1,unchanged,Hello,Hello
-pair_001,dataset/old.txt,dataset/new.txt,2,3,split,Goodbye,Good bye
+pair_id,old_line,new_line,mapping_type
+pair_001,3,3,unchanged
+pair_001,4,4,modified
+pair_001,5,5,modified
+
