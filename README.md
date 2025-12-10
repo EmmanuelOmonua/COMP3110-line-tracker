@@ -1,6 +1,6 @@
 # COMP3110 Line Tracker
-**Student:** Emmanuel Omonua  
-**Student ID:** 110106145  
+**Student:** Emmanuel Omonua & Ayesha Shakeel & Haoyao Sun   
+**Student ID:** 110106145 & 110155047 & 110046298  
 **Course:** COMP-3110  
 **Language Focus:** Java  
 
