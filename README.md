@@ -24,12 +24,15 @@ No implementation is required — only the design, dataset, evaluation, and GUI 
 ---
 
 ## 🧠 Main Deliverables
-- `design/algorithm_design.md` → tool design and pseudocode  
-- `design/evaluation_plan.md` → metrics and testing  
-- `design/gui_description.md` → visualization ideas  
-- `dataset/ground_truth.csv` → true line mappings  
-- `report/COMP3110_report.md` → final written report  
-
+- `design/algorithm_design.md` → algorithm and matching logic  
+- `design/evaluation_plan.md` → how we evaluate the tool  
+- `design/gui_description.md` → GUI + visualization designs  
+- `design/project_plan.md` → tasks, timeline, deliverables  
+- `design/GUI_wireframes/` → PNG mockups of the UI  
+- `dataset/*.java` → 25 Java file pairs (old/new)  
+- `dataset/ground_truth.csv` → line-level ground truth mappings  
+- `report/COMP3110_report.md` → final report (Markdown)  
+- `report/COMP 3110 Project Report.docx` → final report (Word)
 ---
 
 ## 💡 Bonus
