@@ -72,7 +72,7 @@ pair_003,4,3,deleted
 pair_004,3,4,added_line
 ```
 
-This dataset supports both qualitative inspection (looking at pairs) and quantitative evaluation (using precision and recall).
+Our ground-truth dataset uses the following mapping types: `unchanged`, `modified`, `added_line`, `deleted`, and `split`. We include a small number of `deleted` and `split` examples to demonstrate support for these change patterns. This dataset supports both qualitative inspection (looking at pairs) and quantitative evaluation (using precision and recall).
 
 ---
 ## 📊 4. Evaluation Plan
