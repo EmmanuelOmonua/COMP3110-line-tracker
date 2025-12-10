@@ -1,13 +1,13 @@
 # COMP3110 Line Tracker
-**Student:** Emmanuel Omonua  
-**Student ID:** 110106145  
+**Student:** Emmanuel Omonua and Ayesha Shakeel 
+**Student ID:** 110106145 and 110155047
 **Course:** COMP-3110  
 **Language Focus:** Java  
 
 ---
 
 ## 📘 Project Overview
-This project designs a tool that maps which lines of code in an old version of a file match the lines in a new version.  
+This project designs a tool that maps which lines of code in an old version of a file match the lines in a newer version.  
 No implementation is required — only the design, dataset, evaluation, and GUI visualization ideas.
 
 ---
