@@ -97,11 +97,11 @@ pair_022,4,4,added_line
 
 pair_023,1,1,unchanged
 pair_023,2,2,modified
-pair_023,3,3,unchanged
+pair_023,3,,deleted
 
 pair_024,1,1,unchanged
-pair_024,2,2,modified
-pair_024,3,3,unchanged
+pair_024,2,2,split
+pair_024,2,3,split
 
 pair_025,1,1,unchanged
 pair_025,2,2,modified
