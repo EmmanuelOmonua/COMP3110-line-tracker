@@ -1,7 +1,7 @@
 # 🧾 COMP3110 Project Report — Line Mapping Tool
 
-**Student:** Emmanuel Omonua  
-**Student ID:** 110106145  
+**Student:** Emmanuel Omonua & Ayesha Shakeel & Haoyao Sun   
+**Student ID:** 110106145 & 110155047 & 110046298   
 **Course:** COMP-3110  
 **Programming Language Focus:** Java  
 **Repository:** [https://github.com/EmmanuelOmonua/COMP3110-line-tracker](https://github.com/EmmanuelOmonua/COMP3110-line-tracker)  
