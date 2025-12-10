@@ -1,5 +1,5 @@
 # COMP3110 Line Tracker
-**Course:** COMP-3110 
+**Course:** COMP-3110  
 **Student 1:** Emmanuel Omonua (ID: 110106145)   
 **Student 2:** Ayesha Shakeel (ID: 110155047)  
 **Student 3:** Haoyao Sun (ID: 110046298)   
