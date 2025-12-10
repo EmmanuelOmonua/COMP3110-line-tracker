@@ -1,6 +1,8 @@
 # GUI Design Description  
 **Course:** COMP-3110  
-**Student:** Emmanuel Omonua (110106145) & Ayesha Shakeel (110155047) & Haoyao Sun (110046298)  
+**Student 1:** Emmanuel Omonua (110106145)   
+**Student 2:** Ayesha Shakeel (110155047)  
+**Student 3:** Haoyao Sun (110046298)  
 **Language Focus:** Java  
 
 ---
